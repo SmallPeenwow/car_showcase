@@ -32,3 +32,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Followed along with JavaScript Mastery
+
+Link to Youtube Video
+
+- https://www.youtube.com/watch?v=pUNSHPyVryU&list=PLBpEP9aAEnN9Iq8dCrhL69y5q4Hgszlbh&index=75
+
+GitHub Gist Code for project Link
+
+- https://gist.github.com/adrianhajdin/e41751d170881f32955f556aaa45c77c
+
+GitHub Repository JavaScript Mastery Link
+ 
+- https://github.com/adrianhajdin/project_next13_car_showcase/tree/main
